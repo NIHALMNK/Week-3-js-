@@ -1,0 +1,102 @@
+Array Manipulation and Loops:
+Modify the second element of an array using map:
+Input: [1, 2, 3, 4, 5]
+Output: [1, 20, 3, 4, 5] (using map)
+
+Swap the first and last elements of an array:
+Input: [1, 2, 3, 4, 5]
+Output: [5, 2, 3, 4, 1] (using a loop)
+
+Multiply two arrays element-wise:
+Input: const a = [1, 2, 3, 4, 5], const b = [6, 7, 8, 9, 10]
+Output: Multiply elements by index
+
+Separate odd and even numbers in an array:
+Input: const a = [1, 2, 3, 4]
+Output: odd: 1, 3, even: 2, 4 (using a loop)
+
+Find the sum of an array starting from the 3rd index:
+Input: const a = [1, 2, 3, 4, 5]
+Output: Sum of elements starting from index 3 (using array methods)
+
+Find the minimum number from an array using an array method:
+Input: const a = [5, 3, 7, 1, 4]
+Output: Find the minimum value using Math.min() or reduce()
+
+Find the largest string from an array using the reduce method:
+Input: const a = ['apple', 'banana', 'watermelon', 'pear']
+Output: The longest string
+
+Number and String Operations:
+Sum the digits of a number:
+Input: const a = 12345
+Output: 15 (sum of digits)
+
+Find the index of a target number in an array:
+Input: const a = [1, 2, 3, 4, 5], const target = 2
+Output: Index of 2
+
+Check if a number is prime:
+Input: A number
+Output: Return true if prime, false otherwise
+
+Check if a string is a palindrome (using a loop):
+Input: A string
+Output: Return true if palindrome, false otherwise
+
+Check if a string is a palindrome (using a ternary operator):
+Input: A string
+Output: Return true or false using a ternary operator
+
+Check if age is less than 18 (using a ternary operator):
+Input: const age = 16
+Output: Print "minor" if age < 18, else "major"
+
+Find the vowels (a, e, i, o, u) in a string:
+Input: const str = 'javascript'
+Output: Return an array of vowels in the string
+
+Calculate the average of an array:
+Input: const a = [1, 2, 3, 4, 5]
+Output: Average value of the array
+
+Functions and Promises:
+Write the syntax for async and await:
+Question: Explain and give an example of using async/await.
+
+Return a promise if a number a is less than b:
+Input: const a = 3, const b = 5
+Output: Return a promise resolving if a < b
+
+Advanced question on deep copy:
+Question: How do you create a deep copy of an object or array in JavaScript? Provide examples.
+
+Advanced question on shallow copy:
+Question: Explain shallow copying in JavaScript with examples. Compare it with deep copy.
+
+Advanced question on Immediately Invoked Function Expressions (IIFE):
+Question: What is an IIFEs? Explain with an example.
+
+Miscellaneous Concepts:
+Find the sum of odd numbers in an array of 10 elements:
+Input: [1, 2, 3, ..., 10]
+Output: Sum of odd numbers using array methods
+
+Multiply by 3 using a generator function (run infinitely every 1 second):
+Output: Continuously multiply a number by 3 every 1 second (using a generator function)
+
+Find the total sum of object values:
+Input: const a = {a: 1, b: 3}
+Output: 4 (using a loop)
+
+Pass an array to a function and return the sum of the array:
+Input: const a = [1, 2, 3]
+Output: Return the sum of the array
+
+Advanced questions on call, apply, and bind (3 examples):
+Question: Demonstrate call(), apply(), and bind() with practical examples.
+
+Find the vowels in an array:
+Input: const a = ['apple', 'orange', 'grape']
+Output: Return all vowels found in the array of strings.
+
