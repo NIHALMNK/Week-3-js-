@@ -1,0 +1,147 @@
+JavaScript Basics
+Primitive vs Non-Primitive Data Types
+Statically Typed vs Dynamically Typed Language
+Undefined vs Not Defined
+NaN (Not a Number)
+Null vs Undefined
+Type of Errors
+Strict Mode in JavaScript
+isNaN()
+typeof Operator
+Symbol()
+BigInt
+Variables and Scoping
+let vs var
+const vs let
+Scope
+Type of Scope
+Scope Chain
+Block Scope
+Shadowing
+Hoisting
+Temporal Dead Zone (TDZ)
+Lexical Scope
+Lexical Environment
+Functions
+Function Statement
+Function Expression
+Anonymous Function
+Named Function Expression
+First Class Function
+First Order Function
+Higher Order Function
+Arrow Functions vs Normal Functions
+Arrow Functions
+Generator Functions
+Self-Invoking Functions
+Pure Functions
+Function Object
+Callback Functions
+Callback Hell
+Async vs Sync Functions
+Promise
+Promise States
+Promise Chain
+async/await
+Factory Function
+Constructor Function
+This Keyword
+Call, Bind, Apply
+Currying
+Default Parameters
+Rest Operator
+Spread Operator
+Rest Parameter
+Pass by Value vs Pass by Reference
+ 
+Immediately Invoked Function Expression (IIFE)
+Objects and Classes
+Object
+Object Destructuring
+Nested Destructuring
+Object.defineProperty vs defineProperties
+Object.fromEntries vs Object.entries()
+Object.freeze
+Object.seal
+Check if Object is Frozen or Sealed
+Prototypal vs Classical Inheritance
+Prototype Chaining
+proto vs Prototype
+Classes
+Inheritance
+Constructor
+Accessor (Getter and Setter)
+Enhanced Object Literals
+Collections in JS (Map, WeakMap, Set, WeakSet)
+Object vs Map
+Map and HashMap
+Strings and Arrays
+String Functions
+String Interpolation
+Tagged Template
+Template Literals
+Trim
+Slice vs Splice
+Map, Reduce, Filter, forEach
+For of vs For in
+Array Methods: Push, Pop, Shift, Unshift
+Static vs Dynamic Array
+Shallow Copy vs Deep Copy
+Array Sorting Functions
+Control Structures
+Loops: For, While, Do While
+Conditional Operator (Ternary)
+Default Parameters
+Rest Operator
+Unary Operator
+Comma Operator
+Event Handling
+Event Listeners
+Event Loop
+Event Propagation (Bubbling, Capturing)
+Stop Event Propagation
+Stop Immediate Event Propagation
+Event Delegation
+Event Handling
+Event Queue
+Micro Task
+Set Immediate
+Clear Interval
+Set Timeout vs Set Interval
+Clear Timeout
+JavaScript Engines and Performance
+JS Engine Working
+V8 Engine
+Execution Context
+Call Stack
+Memory Management: Stack and Heap
+Single vs Multi-Threading
+Tree Shaking
+Starvation
+Modules and Imports
+Module
+Import and Export
+Polyfill
+ES6 Features
+Strict Mode in JavaScript
+Optional Chaining Operator
+Nullish Coalescing Operator
+Web APIs and Asynchronous Operations
+DOM
+BOM
+Fetch API
+Axios vs Fetch
+Service Worker
+Local Storage vs Session Storage vs Cookies
+JSON.stringify vs JSON.parse
+Advanced Topics
+Regular Expressions
+Normalize
+Pure Functions
+Decode and Encode URL in JavaScript
+App Shell Model
+PWAs (Progressive Web Apps)
+Same Origin Policy
+Zone.js
+Trickling, Bouncing
+
