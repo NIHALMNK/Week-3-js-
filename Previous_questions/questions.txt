@@ -1,3 +1,7 @@
+const a=[{a:{b:10,c:20},{d:50,e:40}}]
+calculate the sum of all numbers.
+
+
 Array Manipulation and Loops:
 Modify the second element of an array using map:
 Input: [1, 2, 3, 4, 5]
